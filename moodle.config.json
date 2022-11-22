@@ -1,6 +1,6 @@
 {
-    "app_id": "com.safeformacion.mobile",
-    "appname": "Safe formación",
+    "app_id": "com.cenaform.mobile",
+    "appname": "Cenaform",
     "versioncode": 40201,
     "versionname": "4.0.2",
     "cache_update_frequency_usually": 420000,
@@ -70,9 +70,9 @@
         "low": 110,
         "high": 120
     },
-    "customurlscheme": "Safe formación",
-    "siteurl": "https://campus.safeformacion.com/",
-    "sitename": "Safe formación",
+    "customurlscheme": "cenaform",
+    "siteurl": "https://campus.cenaform.es",
+    "sitename": "Cenaform",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
@@ -86,7 +86,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.safeformacion.mobile",
+        "android": "com.cenaform.mobile",
         "ios": "id633359593"
     },
     "wsrequestqueuelimit": 10,
