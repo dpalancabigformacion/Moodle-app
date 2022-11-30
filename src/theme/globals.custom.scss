@@ -3,3 +3,69 @@
  * ----------------------------------------------------------------------------
  * Place here all custom app variables.
  */
+button[_ngcontent-ddv-c398]{
+background-color:white !important;
+}
+ion-col.md.hydrated ion-button, ion-fab-button, button, [role=button]{
+background-color:white;
+width:100%;
+}
+ion-note{
+    margin-block-start: 1.1em;
+    margin-block-end: 1em;
+    margin-inline-start: 20px;
+    margin-inline-end: 0px;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+}
+span.mma-xp-xp{
+    margin-inline-end: 20px;
+    margin-left:10px;
+   
+}
+
+.sc-ion-label-md-s p {
+	margin-left: 20px;
+}
+
+ion-avatar.md.hydrated{
+margin-right: 10px;
+margin-left: 10px;
+}
+
+p.core-siteurl {
+display: none !important;
+}
+
+ion-list.core-sitelist {
+    .core-sitelist-sitename {
+    display:none;
+    }
+}
+.core-usermenu-siteinfo{
+display:none;
+}
+p.item-heading.core-sitename {
+display: none !important;
+}
+
+a.core-usermenu-siteurl{
+	display:none !important;
+}
+
+
+core-sitelist-sitename{
+	display:none !important;
+}
+.core-sitelist-sitename{
+	display:none !important;
+}
+ion-item-divider.core-sitelist-sitename{
+	display:none !important;
+}
+
+.addon-message-mine{
+
+}
