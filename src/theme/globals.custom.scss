@@ -4,3 +4,22 @@
  * Place here all custom app variables.
  */
  $brand-color: #e1261d !default;
+ 
+
+p.item-heading.core-sitename {
+display: none !important;
+}
+
+a.core-usermenu-siteurl{
+	display:none !important;
+}
+
+p.ng-star-inserted{
+	display:none !important;
+}
+.core-sitelist-sitename{
+	display:none !important;
+}
+ion-item-divider.core-sitelist-sitename{
+	display:none !important;
+}
