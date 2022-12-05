@@ -166,11 +166,6 @@
             </feature>
         </config-file>
         <config-file parent="/*" target="res/xml/config.xml">
-            <feature name="QRScanner">
-                <param name="android-package" value="com.bitpay.cordova.qrscanner.QRScanner" />
-            </feature>
-        </config-file>
-        <config-file parent="/*" target="res/xml/config.xml">
             <feature name="CDVOrientation">
                 <param name="android-package" value="cordova.plugins.screenorientation.CDVOrientation" />
             </feature>
